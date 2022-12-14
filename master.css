@@ -61,13 +61,13 @@ ul{
     display: flex;
     justify-content: space-between;
     background-color: #063036;
-    border-radius: 55px;
+    border-radius: 60px;
 }
 li{}
-.bt01{padding-left: 59px;}
+.bt01{padding-left: 59px; padding-top: 25px;}
 .bt02{}
 .bt03{}
-.bt04{}
+.bt04{padding-right: 50px;}
 
 /*--sub01--*/
 .s_b00{width: 100%;}
